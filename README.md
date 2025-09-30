@@ -191,7 +191,7 @@ legal-brief-analyzer/
 ├── Amicus Brief on Behalf of Mississippi....pdf
 ├── dynamic_legal_analysis.xlsx (generated)
 ├── key_items_dynamic.csv (generated)
-└── requirements.txt
+└── Legal-Brief-Key-Items-Extractor.pdf
 ```
 
 ## Requirements File
